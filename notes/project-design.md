@@ -33,7 +33,6 @@ Top User Stories
 High Priority 
 * As a reader, I would like to securely log in with an email or password. 
 * As a reader, I would like to easily view what book clubs I can join. 
-* As a boo
 
 Medium Priority 
 * As a reader, I want to be able to leave book clubs. 
