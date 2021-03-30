@@ -1,10 +1,14 @@
 /**
+ * @file Web server for bookmargins API. 
+ * @author Mariko 
  * following this tutorial: https://bezkoder.com/node-js-rest-api-express-mysql/
  */
 
 // importing express + json, no need for bodyParser 
 import pkg from 'express';
 const { express, json } = pkg;
+
+require('dotenv').config() 
 
 const app = pkg()
 const PORT = 3000
