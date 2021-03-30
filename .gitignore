@@ -3,3 +3,11 @@
 
 # Workspace/Environment/Editor Files 
 .vscode
+
+# Node 
+node_modules/
+coverage/
+build
+npm-debug.log
+.env 
+test/*.log
