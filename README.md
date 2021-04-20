@@ -173,15 +173,15 @@ Built by
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/marikobriggs/repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/marikobriggs/repo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/marikobriggs/repo.svg?style=for-the-badge
-[forks-url]: https://github.com/marikobriggs/repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/marikobriggs/repo.svg?style=for-the-badge
-[stars-url]: https://github.com/marikobriggs/repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/marikobriggs/repo.svg?style=for-the-badge
-[issues-url]: https://github.com/marikobriggs/repo/issues
-[license-shield]: https://img.shields.io/github/license/marikobriggs/repo.svg?style=for-the-badge
-[license-url]: https://github.com/marikobriggs/repo/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/marikobriggs/bookmargins.svg?style=for-the-badge
+[contributors-url]: https://github.com/marikobriggs/bookmargins/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/marikobriggs/bookmargins.svg?style=for-the-badge
+[forks-url]: https://github.com/marikobriggs/bookmargins/network/members
+[stars-shield]: https://img.shields.io/github/stars/marikobriggs/bookmargins.svg?style=for-the-badge
+[stars-url]: https://github.com/marikobriggs/bookmargins/stargazers
+[issues-shield]: https://img.shields.io/github/issues/marikobriggs/bookmargins.svg?style=for-the-badge
+[issues-url]: https://github.com/marikobriggs/bookmargins/issues
+[license-shield]: https://img.shields.io/github/license/marikobriggs/bookmargins.svg?style=for-the-badge
+[license-url]: https://github.com/marikobriggs/bookmargins/blob/master/LICENSE.txt
 <!-- [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/marikobriggs -->
